@@ -1,18 +1,11 @@
 {
-  "catalogId": "1",
-  "catalogName": "catalog1",
-  "listOfProducts": [
+  "posts": [
     {
-      "productId": "1",
-      "productName": "pc Portable Asus",
-      "productStock": "10",
-      "productCategory": "informatique"
-    },
-	{
-      "productId": "2",
-      "productName": "pc Portable Mac",
-      "productStock": "10",
-      "productCategory": "informatique"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
