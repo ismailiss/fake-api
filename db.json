@@ -1,13 +1,13 @@
 {
 	"catalog": [{
-			"productId": "1",
-			"productName": "pc Portable Asus",
+			"id": "1",
+			"name": "pc Portable Asus",
 			"productStock": "10",
 			"productCategory": "informatique"
 		},
 		{
-			"productId": "2",
-			"productName": "pc Portable Mac",
+			"id": "2",
+			"name": "pc Portable Mac",
 			"productStock": "10",
 			"productCategory": "informatique"
 		}
