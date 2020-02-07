@@ -6,7 +6,7 @@
 			"stock": "10",
 			"prix": "5000",
 			"category": "informatique",
-			"path": "1"
+			"path": "1.jpg"
 		},
 		{
 			"id": "2",
@@ -15,7 +15,7 @@
 			"stock": "10",
 			"prix": "3550",
 			"category": "informatique",
-			"path": "2"
+			"path": "2.jpg"
 		},
 		{
 			"id": "3",
@@ -24,7 +24,7 @@
 			"stock": "10",
 			"prix": "3250",
 			"category": "informatique",
-			"path": "3"
+			"path": "3.jpg"
 		},
 		{
 			"id": "4",
@@ -33,7 +33,7 @@
 			"stock": "10",
 			"prix": "3250",
 			"category": "informatique",
-			"path": "4"
+			"path": "4.jpg"
 		},
 		{
 			"id": "5",
@@ -42,7 +42,7 @@
 			"stock": "10",
 			"prix": "1500",
 			"category": "Electronic",
-			"path": "5"
+			"path": "5.jpg"
 		},
 		{
 			"id": "6",
@@ -51,7 +51,7 @@
 			"stock": "10",
 			"prix": "1900",
 			"category": "Electronic",
-			"path": "6"
+			"path": "6.jpg"
 		},
 		{
 			"id": "7",
@@ -60,7 +60,7 @@
 			"stock": "10",
 			"prix": "849 ",
 			"category": "Electronic",
-			"path": "7"
+			"path": "7.jpg"
 		}
 	],
 	"owner": [{
