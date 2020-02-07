@@ -1,13 +1,45 @@
 {
 	"catalog": [{
 			"id": "1",
-			"name": "pc Portable Asus",
+			"name": "Asus PC Portable X540 AMD - 15,6 4GO 1TO Win 10 BLACK",
+			"description":"Découvrez une amélioration considérable des vitesses de lecture / écriture, des performances PCMark, des temps de démarrage et de la protection des données physiques lorsque vous spécifiez votre ASUS X540 avec un SSD."
+			"stock": "10",
+			"category": "informatique",
+			 "path": "img1"
+		},
+		{
+			"id": "2",
+			"name": "mac Laptop with 1000GB HDD 16GB RAM",
 			"productStock": "10",
 			"productCategory": "informatique"
 		},
 		{
-			"id": "2",
-			"name": "pc Portable Mac",
+			"id": "3",
+			"name": "Asus Laptop with 1000GB HDD 16GB RAM",
+			"productStock": "10",
+			"productCategory": "informatique"
+		},
+		{
+			"id": "4",
+			"name": "Asus Laptop with 1000GB HDD 16GB RAM",
+			"productStock": "10",
+			"productCategory": "informatique"
+		},
+		{
+			"id": "5",
+			"name": "Asus Laptop with 1000GB HDD 16GB RAM",
+			"productStock": "10",
+			"productCategory": "informatique"
+		},
+		{
+			"id": "6",
+			"name": "Asus Laptop with 1000GB HDD 16GB RAM",
+			"productStock": "10",
+			"productCategory": "informatique"
+		},
+		{
+			"id": "7",
+			"name": "Asus Laptop with 1000GB HDD 16GB RAM",
 			"productStock": "10",
 			"productCategory": "informatique"
 		}
