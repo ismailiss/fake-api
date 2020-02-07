@@ -4,32 +4,45 @@
 			"name": "Asus PC Portable X540 AMD - 15,6 4GO 1TO Win 10 BLACK",
 			"description":"Découvrez une amélioration considérable des vitesses de lecture / écriture, des performances PCMark, des temps de démarrage et de la protection des données physiques lorsque vous spécifiez votre ASUS X540 avec un SSD."
 			"stock": "10",
+			"prix" : "5000",
 			"category": "informatique",
-			 "path": "img1"
+			 "path": "1"
 		},
 		{
 			"id": "2",
-			"name": "mac Laptop with 1000GB HDD 16GB RAM",
-			"productStock": "10",
-			"productCategory": "informatique"
+			"name": "Lenovo V130-15 I3-6006U 15,6 4GB 1TB – FREEDOS",
+			"description":"Processeur : Intel® Core™ i3 6006U (2.00 GHz 3Mo SmartCache, 2 coeurs)\n Mémoire RAM : 4 Go DDR4-2133MHz\n Disque Dur : 1 To SATA 5400 RpmTaille De L'écran : Ecran 15.6" HD antireflets."
+			"stock": "10",	
+			"prix" : "3550",
+			"category": "informatique",
+			 "path": "2"
 		},
 		{
 			"id": "3",
-			"name": "Asus Laptop with 1000GB HDD 16GB RAM",
-			"productStock": "10",
-			"productCategory": "informatique"
+			"name": "Hp PC Portable HP EliteBook 840 G2 Core i5 5eme 8 RAM 500GB HHD14 remis a neuf",
+			"description":"Processeur : Intel® Core™ i3 6006U (2.00 GHz 3Mo SmartCache, 2 coeurs)\n	"
+			"stock": "10",		
+			"prix" : "3250",			
+			"category": "informatique",
+			 "path": "3"
+		},
+		{
+			"id": "3",
+			"name": "Hp PC Portable HP EliteBook 840 G2 Core i5 5eme 8 RAM 500GB HHD14 remis a neuf Mémoire RAM : 4 Go",
+			"description":"	"
+			"stock": "10",		
+			"prix" : "3250",			
+			"category": "informatique",
+			 "path": "3"
 		},
 		{
 			"id": "4",
-			"name": "Asus Laptop with 1000GB HDD 16GB RAM",
-			"productStock": "10",
-			"productCategory": "informatique"
-		},
-		{
-			"id": "5",
-			"name": "Asus Laptop with 1000GB HDD 16GB RAM",
-			"productStock": "10",
-			"productCategory": "informatique"
+			"name": "Hp PC Portable 250 G5 Pentium N3710 - 500 Go - 4 Go - Noir",
+			"description":"Restez connecté avec l'ordinateur portable HP 250 qui vous offre un bon rapport qualité-prix . Venez à bout de toutes vos tâches professionnelles quotidiennes avec la technologie Intel®, les outils de collaboration essentiels . Son châssis résistant le protégera des rigueurs de la journée.	"
+			"stock": "10",		
+			"prix" : "3 200",			
+			"category": "informatique",
+			 "path": "4"
 		},
 		{
 			"id": "6",
