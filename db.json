@@ -2,59 +2,65 @@
 	"catalog": [{
 			"id": "1",
 			"name": "Asus PC Portable X540 AMD - 15,6 4GO 1TO Win 10 BLACK",
-			"description":"Découvrez une amélioration considérable des vitesses de lecture / écriture, des performances PCMark, des temps de démarrage et de la protection des données physiques lorsque vous spécifiez votre ASUS X540 avec un SSD."
+			"description": "Découvrez une amélioration considérable des vitesses de lecture / écriture, des performances PCMark, des temps de démarrage et de la protection des données physiques lorsque vous spécifiez votre ASUS X540 avec un SSD.",
 			"stock": "10",
-			"prix" : "5000",
+			"prix": "5000",
 			"category": "informatique",
-			 "path": "1"
+			"path": "1"
 		},
 		{
 			"id": "2",
 			"name": "Lenovo V130-15 I3-6006U 15,6 4GB 1TB – FREEDOS",
-			"description":"Processeur : Intel® Core™ i3 6006U (2.00 GHz 3Mo SmartCache, 2 coeurs)\n Mémoire RAM : 4 Go DDR4-2133MHz\n Disque Dur : 1 To SATA 5400 RpmTaille De L'écran : Ecran 15.6" HD antireflets."
-			"stock": "10",	
-			"prix" : "3550",
+			"description": "Processeur : Intel® Core™ i3 6006U (2.00 GHz 3Mo SmartCache, 2 coeurs)\n Mémoire RAM : 4 Go DDR4-2133MHz\n Disque Dur : 1 To SATA 5400 RpmTaille De L'écran : Ecran 15.6 HD antireflets.",
+			"stock": "10",
+			"prix": "3550",
 			"category": "informatique",
-			 "path": "2"
+			"path": "2"
 		},
 		{
 			"id": "3",
 			"name": "Hp PC Portable HP EliteBook 840 G2 Core i5 5eme 8 RAM 500GB HHD14 remis a neuf",
-			"description":"Processeur : Intel® Core™ i3 6006U (2.00 GHz 3Mo SmartCache, 2 coeurs)\n	"
-			"stock": "10",		
-			"prix" : "3250",			
+			"description": "Processeur : Intel® Core™ i3 6006U (2.00 GHz 3Mo SmartCache, 2 coeurs)\n",
+			"stock": "10",
+			"prix": "3250",
 			"category": "informatique",
-			 "path": "3"
-		},
-		{
-			"id": "3",
-			"name": "Hp PC Portable HP EliteBook 840 G2 Core i5 5eme 8 RAM 500GB HHD14 remis a neuf Mémoire RAM : 4 Go",
-			"description":"	"
-			"stock": "10",		
-			"prix" : "3250",			
-			"category": "informatique",
-			 "path": "3"
+			"path": "3"
 		},
 		{
 			"id": "4",
-			"name": "Hp PC Portable 250 G5 Pentium N3710 - 500 Go - 4 Go - Noir",
-			"description":"Restez connecté avec l'ordinateur portable HP 250 qui vous offre un bon rapport qualité-prix . Venez à bout de toutes vos tâches professionnelles quotidiennes avec la technologie Intel®, les outils de collaboration essentiels . Son châssis résistant le protégera des rigueurs de la journée.	"
-			"stock": "10",		
-			"prix" : "3 200",			
+			"name": "Hp PC Portable HP EliteBook 840 G2 Core i5 5eme 8 RAM 500GB HHD14 remis a neuf Mémoire RAM : 4 Go",
+			"description": "Hp PC Portable HP EliteBook 840 G2 Core i5 5eme 2.00 GHz 3Mo SmartCache, 2 coeurs)\n",
+			"stock": "10",
+			"prix": "3250",
 			"category": "informatique",
-			 "path": "4"
+			"path": "4"
+		},
+		{
+			"id": "5",
+			"name": "Visio TV 32 Pouces HD Led Recepteur integré + TNT - Garantie",
+			"description": "LED 32 pouces HDResolution: 1366 x 768 HDRécépeteur integréTemps de réponse: 10msLuminosité: 220cd/m²couleurs d'affichage: 16.7MsDimensions: 725 x 427x 83,2 mm",
+			"stock": "10",
+			"prix": "1500",
+			"category": "Electronic",
+			"path": "5"
 		},
 		{
 			"id": "6",
-			"name": "Asus Laptop with 1000GB HDD 16GB RAM",
-			"productStock": "10",
-			"productCategory": "informatique"
+			"name": "Samsung 43 LED Smart TV - 43N5300 - Noir",
+			"description": "Analysant le contenu original avec un algorithme avancé, Ultra Clean View vous donne des images de haute qualité avec moins de distorsion. Profitez d'une image claire.",
+			"stock": "10",
+			"prix": "1900",
+			"category": "Electronic",
+			"path": "6"
 		},
 		{
 			"id": "7",
-			"name": "Asus Laptop with 1000GB HDD 16GB RAM",
-			"productStock": "10",
-			"productCategory": "informatique"
+			"name": "Revolution LED 24 Slim avec récepteur intégré et TNT - Garantie 1 an",
+			"description": "TV REVOLUTION 24 maximise la reproduction des couleurs pour prendre votre vision au prochain niveau. Que ce soit les sports, les savons, les films, profitez des couleurs réalistes comme ils étaient censés le faire. ",
+			"stock": "10",
+			"prix": "849 ",
+			"category": "Electronic",
+			"path": "7"
 		}
 	],
 	"owner": [{
