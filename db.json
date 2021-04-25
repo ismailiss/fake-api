@@ -7,5 +7,39 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "title": "who has won the most english leaug titles?",
+      "responses": [
+        {
+          "id": 1,
+          "title": "MAN U",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "title": "MAN CITY",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "who has won the most world cup?",
+      "responses": [
+        {
+          "id": 1,
+          "title": "BRAZIL",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "title": "FRANCE",
+          "correct": false
+        }
+      ]
+    }
+  ]
 }
