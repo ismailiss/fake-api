@@ -21,24 +21,25 @@
         {
           "id": 2,
           "title": "MAN CITY",
-          "correct": false
         }
+         "correct":1
+
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "title": "who has won the most world cup?",
       "responses": [
         {
           "id": 1,
-          "title": "BRAZIL",
-          "correct": true
+          "title": "FRANCE"
         },
         {
           "id": 2,
-          "title": "FRANCE",
-          "correct": false
+          "title": "BRAZIL"
         }
+        "correct": 2
+
       ]
     }
   ]
